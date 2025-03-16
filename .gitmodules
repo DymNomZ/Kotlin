@@ -1,0 +1,3 @@
+[submodule "TaskForge"]
+	path = TaskForge
+	url = https://github.com/DymNomZ/TaskForge
